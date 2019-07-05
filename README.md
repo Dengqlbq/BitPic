@@ -84,7 +84,7 @@ Writing...
 
 浏览带水印大图:
 
-<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/6.png"></p>
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/6.jpg"></p>
 
 
 
