@@ -52,102 +52,102 @@ Writing...
 
 以下未完全展示系统功能
 
-登录注册
+登录注册:
 
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/1.png"></p>
 
 
 
-导航栏
+导航栏:
 
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/2.png)
-
-
-
-首页
-
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/3.png)
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/2.png"></p>
 
 
 
-列表页
+首页:
 
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/4.png)
-
-
-
-详情页
-
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/5.png)
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/3.png"></p>
 
 
 
-浏览带水印大图
+列表页:
 
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/6.jpg)
-
-
-
-心愿页（结算）
-
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/7.png)
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/4.png"></p>
 
 
 
-个人资料
+详情页:
 
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/8.png)
-
-
-
-收藏盒子
-
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/9.png)
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/5.png"></p>
 
 
 
-订单管理（支付订单）
+浏览带水印大图:
 
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/10.png)
-
-
-
-订单管理（已完成订单）
-
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/11.png)
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/6.png"></p>
 
 
 
-作品管理（发布作品）
+心愿页（结算）:
 
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/12.png)
-
-
-
-作品管理（我的作品）
-
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/13.png)
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/7.png"></p>
 
 
 
-作品管理（审核失败）
+个人资料:
 
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/14.png)
-
-
-
-管理后台（登录页）
-
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/15.png)
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/8.png"></p>
 
 
 
-作品待审核列表
+收藏盒子:
 
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/16.png)
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/9.png"></p>
 
 
 
-作品审核不通过
+订单管理（支付订单）:
 
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/17.png)
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/10.png"></p>
+
+
+
+订单管理（已完成订单）:
+
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/11.png"></p>
+
+
+
+作品管理（发布作品）:
+
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/12.png"></p>
+
+
+
+作品管理（我的作品）:
+
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/13.png"></p>
+
+
+
+作品管理（审核失败）:
+
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/14.png"></p>
+
+
+
+管理后台（登录页）:
+
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/15.png"></p>
+
+
+
+作品待审核列表:
+
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/16.png"></p>
+
+
+
+作品审核不通过:
+
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/17.png"></p>
