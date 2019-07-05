@@ -54,7 +54,7 @@ Writing...
 
 登录注册
 
-<div style="text-align: center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/1.png"></div>
+<p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/1.png"></p>
 
 
 
