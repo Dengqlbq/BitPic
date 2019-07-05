@@ -10,7 +10,7 @@
                                                                 
 ```
 
-![](https://img.shields.io/badge/java-1.8-blue.svg)![](https://img.shields.io/badge/springboot-2.0.4-blue.svg)![](https://img.shields.io/badge/vue-2.x-blue.svg)![](https://img.shields.io/badge/iview-3-blue.svg)![](https://img.shields.io/badge/ipfs-0.4.18-blue.svg)![](https://img.shields.io/badge/nginx-1.15.7-blue.svg)![](https://img.shields.io/badge/elasticsearch-5.6.3-blue.svg)
+![](https://img.shields.io/badge/java-1.8-blue.svg) ![](https://img.shields.io/badge/springboot-2.0.4-blue.svg) ![](https://img.shields.io/badge/vue-2.x-blue.svg) ![](https://img.shields.io/badge/iview-3-blue.svg) ![](https://img.shields.io/badge/ipfs-0.4.18-blue.svg) ![](https://img.shields.io/badge/nginx-1.15.7-blue.svg) ![](https://img.shields.io/badge/elasticsearch-5.6.3-blue.svg)
 
 ### Feature
 
@@ -84,7 +84,7 @@ Writing...
 
 浏览带水印大图
 
-![](https://github.com/Dengqlbq/BitPic/blob/master/img/6.png)
+![](https://github.com/Dengqlbq/BitPic/blob/master/img/6.jpg)
 
 
 
