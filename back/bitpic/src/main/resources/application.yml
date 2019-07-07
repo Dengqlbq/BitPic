@@ -42,6 +42,7 @@ file:
 img-server:
   root: /Volumes/H/Java/images/
 
+# 水印文件
 thum:
   mark-file: /Volumes/H/Java/store/mark.png
 

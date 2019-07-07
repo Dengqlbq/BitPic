@@ -42,7 +42,7 @@
 
 ### How to use ?
 
-Writing...
+Project blog : https://blog.csdn.net/sinat_34200786/article/details/94888975
 
 
 
@@ -57,11 +57,9 @@ Writing...
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/1.png"></p>
 
 
-
 导航栏:
 
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/2.png"></p>
-
 
 
 首页:
@@ -69,11 +67,9 @@ Writing...
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/3.png"></p>
 
 
-
 列表页:
 
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/4.png"></p>
-
 
 
 详情页:
@@ -81,11 +77,9 @@ Writing...
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/5.png"></p>
 
 
-
 浏览带水印大图:
 
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/6.jpg"></p>
-
 
 
 心愿页（结算）:
@@ -93,11 +87,9 @@ Writing...
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/7.png"></p>
 
 
-
 个人资料:
 
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/8.png"></p>
-
 
 
 收藏盒子:
@@ -105,11 +97,9 @@ Writing...
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/9.png"></p>
 
 
-
 订单管理（支付订单）:
 
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/10.png"></p>
-
 
 
 订单管理（已完成订单）:
@@ -117,11 +107,9 @@ Writing...
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/11.png"></p>
 
 
-
 作品管理（发布作品）:
 
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/12.png"></p>
-
 
 
 作品管理（我的作品）:
@@ -129,11 +117,9 @@ Writing...
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/13.png"></p>
 
 
-
 作品管理（审核失败）:
 
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/14.png"></p>
-
 
 
 管理后台（登录页）:
@@ -141,11 +127,9 @@ Writing...
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/15.png"></p>
 
 
-
 作品待审核列表:
 
 <p align="center"><img src="https://github.com/Dengqlbq/BitPic/blob/master/img/16.png"></p>
-
 
 
 作品审核不通过:
